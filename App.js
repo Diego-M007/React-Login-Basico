@@ -16,7 +16,7 @@ export default function App() {
       >
 
         <View style={styles.container_login}>
-          <View style={styles.text1}><Text style={styles.text1}>Bem vindo a minha tela de Login Básica</Text></View>
+          <View style={styles.text1}><Text style={styles.text1}>Bem vindo a minha página de Login</Text></View>
           <Image
             source={logo}
             style={styles.logo}
